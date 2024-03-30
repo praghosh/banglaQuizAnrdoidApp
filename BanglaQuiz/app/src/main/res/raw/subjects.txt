@@ -1,0 +1,41 @@
+{
+  "Labels": {
+  "Title": "বাংলা ব্যাকরণ কুইজ" ,
+  "SelectSubject": "বিষয় নির্বাচন করুন" 
+  },
+  
+  "Subjects": [
+    {
+      "SubjectName": "samas",
+      "DisplayName": "সমাস"
+   
+    },
+    {
+      "SubjectName": "sandhi",
+      "DisplayName": "সন্ধি"
+   
+    },
+    
+    {
+      "SubjectName": "padparibartan",
+      "DisplayName": "বাক্য এবং পদ পরিবর্তন"
+   
+    },
+
+
+      {
+      "SubjectName": "utpotti",
+      "DisplayName": "শব্দের অর্থ এবং উতপত্তি"
+   
+    }
+    ,
+
+
+          {
+          "SubjectName": "bagdhara",
+          "DisplayName": "বাঙলা বাগধারা"
+
+        }
+    
+     ]
+}

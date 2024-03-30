@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+  <TableLayout  
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/subjectLayout"
+    style="@style/Theme.AppCompat"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="2"
+ >
+
+    <LinearLayout
+        android:id="@+id/subjectSelectlinearLayout"
+        style="@style/VerticalThemeLayout"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp" >
+
+        <EditText
+            android:id="@+id/selectSubject"
+            style="@style/DefaultNonEditableText" 
+            android:paddingTop="10dp"        
+            android:text="Select the grammar subjects">
+           
+        </EditText>
+    </LinearLayout>
+
+</TableLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+ 
+ <item  android:state_focused="true">
+ <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval" >
+    <gradient android:startColor="#90C459" android:endColor="#92C469"
+        android:angle="270"/>
+    <size android:height="40dp" android:width="40dp" />
+  </shape>
+ </item>
+ 
+ <item android:state_pressed="true">
+ <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval" >
+    <gradient android:startColor="#90C050" android:endColor="#a4cAa4"
+        android:angle="270"/>
+    <size android:height="45dp" android:width="40dp" />
+  </shape>
+ </item>    
+
+<item android:state_enabled="true">
+ <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval" >
+    <gradient android:startColor="#5AC95C" android:endColor="#C4EAC4"
+        android:angle="270"/>
+    <size android:height="45dp" android:width="40dp" />
+  </shape>
+ </item>
+ 
+<item >
+ <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval" >
+    <gradient android:startColor="#5AC95C" android:endColor="#C4EAC4"
+        android:angle="270"/>
+     <size android:height="45dp" android:width="40dp" />
+  </shape>
+ </item> 
+  
+
+ 
+
+</selector>

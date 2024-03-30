@@ -1,0 +1,572 @@
+﻿{
+  "Questions": [
+    {
+      "Question": "সন্ধি ও সমাসের মধ্যে পার্থক্য কি?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "সন্ধিতে একাধিক পদ একপদে পরিণত হয়, কিন্তু সমাসে পরস্পর সন্নিহিত দুটি বর্ণ মিলিত হয়। " 
+        },
+        {
+          "Answer": "সন্ধিতে পদের বিভক্তি লোপ পায় না, কিন্তু সমাসে সাধারণত পদের বিভক্তি লোপ পায়। "
+        },
+        {
+          "Answer": "সন্ধিতে মিলিত পদসমষ্টি অর্থবোধক নতুন পদের সৃষ্টি করে, কিন্তু সমাসে শব্দের অর্থের কোন পরিবর্তন ঘটে না"
+        },
+        {
+          "Answer": "সন্ধি এবং সমাস দুই ক্ষেত্রেই অর্থের কোন পরিবর্তন ঘটে না"
+        }
+      ]
+    },
+    {
+      "Question": "সন্ধির ক্ষেত্রে কোনটি সঠিক নয়?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "কখনো পূর্ব বা পরবর্ণের বিকৃতি ঘটে"
+        },
+        {
+          "Answer": "কখনো পূর্ব বা পরবর্ণের বিলোপ ঘটে"
+        },
+        {
+          "Answer": "কখনো নতুন শব্দের উদয় হয়"
+        },
+        {
+          "Answer": "কখনো নতুন বর্ণের আবির্ভাব ঘটে"
+        }
+      ]
+    },
+    
+        {
+      "Question": "ক্ষুধার্ত - এই শব্দটির সন্ধি-বিচ্ছেদ কি হবে?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "ক্ষুধাঃ + আর্ত"
+        },
+        {
+          "Answer": "ক্ষুধা + আর্ত"
+        },
+        {
+          "Answer": "ক্ষুধা + ঋত "
+        }, 
+        {
+          "Answer": "ক্ষুধ্‌ + আর্ত"
+        }
+      ] 
+    },
+            {
+      "Question": "ক্ষুধার্ত - এই শব্দটির সন্ধি-বিচ্ছেদ কি হবে?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "ক্ষুধাঃ + আর্ত"
+        },
+        {
+          "Answer": "ক্ষুধা + আর্ত"
+        },
+        {
+          "Answer": "ক্ষুধা + ঋত "
+        }, 
+        {
+          "Answer": "ক্ষুধ্‌ + আর্ত"
+        }
+      ] 
+    }
+       ,
+    
+           {
+      "Question": "Which part of Bird`s body does Plumage refer to?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Feathers"
+        },
+        {
+          "Answer": "Legs"
+        },
+        {
+          "Answer": "Eggs"
+        },
+        {
+          "Answer": "Skin"
+        }
+      ]
+    },
+    
+      {
+      "Question": "Temperature is measured in ",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Pounds"
+        },
+        {
+          "Answer": "Ounces"
+        },
+        {
+          "Answer": "Farenheit"
+        },
+        {
+          "Answer": "Yards"
+        }
+      ]
+    },
+    
+          {
+      "Question": "Which part of the Plant contains Chlorophyll?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Stem"
+        },
+        {
+          "Answer": "Root"
+        },
+        {
+          "Answer": "Flower"
+        },
+        {
+          "Answer": "Leaf"
+        }
+      ]
+    },
+    
+     {
+      "Question": "---- is the process by which water vapor changes into liquid water.",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Circulation"
+        },
+        {
+          "Answer": "Condensation"
+        },
+        {
+          "Answer": "Evaporation"
+        },
+        {
+          "Answer": "Stimulation"
+        }
+      ]
+    },
+    
+         {
+      "Question": "Land that is very dry and has very less water is called as ?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Desert"
+        },
+        {
+          "Answer": "Coast"
+        },
+        {
+          "Answer": "Plain"
+        },
+        {
+          "Answer": "Valley"
+        }
+      ]
+    },
+    
+             {
+      "Question": "During Drought period there is ",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "lots of rain"
+        },
+        {
+          "Answer": "no rain"
+        },
+        {
+          "Answer": "lots of snow"
+        },
+        {
+          "Answer": "heavy flood"
+        }
+      ]
+    },
+    
+                 {
+      "Question": "Human body obtains its energy from ",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Sand"
+        },
+        {
+          "Answer": "Carbohydrates"
+        },
+        {
+          "Answer": "Hydrogen"
+        },
+        {
+          "Answer": "Air"
+        }
+      ]
+    },
+    
+     {
+      "Question": "---- is the process by which liquid water changes into a water vapor?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Circulation"
+        },
+        {
+          "Answer": "Condensation"
+        },
+        {
+          "Answer": "Evaporation"
+        },
+        {
+          "Answer": "Stimulation"
+        }
+      ]
+    },
+    
+    {
+      "Question": "---- breathes through gills.",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Dog"
+        },
+        {
+          "Answer": "Cat"
+        },
+        {
+          "Answer": "Fish"
+        },
+        {
+          "Answer": "Duck"
+        }
+      ]
+    },
+    
+    {
+      "Question": "The process of food cycle from one living thing to another is called ",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Food Path"
+        },
+        {
+          "Answer": "Food Store"
+        },
+        {
+          "Answer": "Food Cycle"
+        },
+        {
+          "Answer": "Food Chain"
+        }
+      ]
+    },
+    
+        {
+      "Question": "---- denotes the resource that comes from remains of plants and animals.",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Energy Fuel"
+        },
+        {
+          "Answer": "Chemical Fuel"
+        },
+        {
+          "Answer": "Fossil Fuel"
+        },
+        {
+          "Answer": "Bio Fuel"
+        }
+      ]
+    },
+    
+            {
+      "Question": "which of the following doesnt have its own shape or volume?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Solid"
+        },
+        {
+          "Answer": "Sand"
+        },
+        {
+          "Answer": "Gas"
+        },
+        {
+          "Answer": "Ice"
+        }
+      ]
+    },
+    
+    {
+      "Question": "Choose the herbivore.",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Fish"
+        },
+        {
+          "Answer": "Deer"
+        },
+        {
+          "Answer": "Tiger"
+        },
+        {
+          "Answer": "Lion"
+        }
+      ]
+    },
+    
+        {
+      "Question": "Lunar eclipse occurs when --- blocks light from --- from reaching ---.",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Moon,Earth,Sun"
+        },
+        {
+          "Answer": "Sun,Moon,Earth"
+        },
+        {
+          "Answer": "Earth,Sun,Moon"
+        },
+        {
+          "Answer": "Moon,Earth,Sun"
+        }
+      ]
+    },
+    
+     {
+      "Question": "Magnets are attracted to ----.",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Steel"
+        },
+        {
+          "Answer": "Coal"
+        },
+        {
+          "Answer": "Iron"
+        },
+        {
+          "Answer": "Ice"
+        }
+      ]
+    },
+    
+       {
+      "Question": "Which item among the following is not a natural resource?",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Bread"
+        },
+        {
+          "Answer": "Oil"
+        },
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Fish"
+        }
+      ]
+    },
+    
+           {
+      "Question": "Vehicles cause --- pollution.",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Air"
+        },
+        {
+          "Answer": "Soil"
+        },
+        {
+          "Answer": "Fire"
+        }
+      ]
+    },
+    
+               {
+      "Question": "Choose the renewable resource.",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Gold"
+        },
+        {
+          "Answer": "Coal"
+        },
+        {
+          "Answer": "Diesel"
+        },
+        {
+          "Answer": "Solar Power"
+        }
+      ]
+    },
+    
+                   {
+      "Question": "---- is a reptile.",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Cat"
+        },
+        {
+          "Answer": "Dog"
+        },
+        {
+          "Answer": "Tiger"
+        },
+        {
+          "Answer": "Crocodile"
+        }
+      ]
+    },
+    
+                       {
+      "Question": "Solar System consists of ",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Sun,Moon"
+        },
+        {
+          "Answer": "Planets"
+        },
+        {
+          "Answer": "Sun,Planets"
+        },
+        {
+          "Answer": "Sun,Planets,Moons"
+        }
+      ]
+    },
+    
+                           {
+      "Question": "---- is a solid.",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Oil"
+        },
+        {
+          "Answer": "Oxygen"
+        },
+        {
+          "Answer": "Rock"
+        }
+      ]
+    },
+    
+    {
+              "Question": "Thermometers are used to measure ",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Temperature"
+        },
+        {
+          "Answer": "Weight"
+        },
+        {
+          "Answer": "Volume"
+        },
+        {
+          "Answer": "Power"
+        }
+      ]
+    },
+    
+    {
+              "Question": "Low lying land sorrounded by mountains is called ",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Plain"
+        },
+        {
+          "Answer": "Hill"
+        },
+        {
+          "Answer": "Stream"
+        },
+        {
+          "Answer": "Valley"
+        }
+      ]
+    },
+    
+     {
+              "Question": "What flows out of Volcanoes ",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Lava"
+        },
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Oil"
+        },
+        {
+          "Answer": "Air"
+        }
+      ]
+    },
+    
+    {
+              "Question": "Choose the odd one out.",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Dry"
+        },
+        {
+          "Answer": "Spring"
+        },
+        {
+          "Answer": "Summer"
+        },
+        {
+          "Answer": "Winter"
+        }
+      ]
+    },
+    
+        {
+              "Question": "Weight is measured in ",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Yards"
+        },
+        {
+          "Answer": "Miles"
+        },
+        {
+          "Answer": "Gallons"
+        },
+        {
+          "Answer": "Pounds"
+        }
+      ]
+    }
+     ]
+}

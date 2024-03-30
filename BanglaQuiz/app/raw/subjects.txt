@@ -1,0 +1,46 @@
+{
+  "Labels": {
+  "Title": "বাংলা ব্যাকরণ কুইজ" ,
+  "SelectSubject": "বিষয় নির্বাচন করুন" 
+  },
+  
+  "Subjects": [
+    {
+      "SubjectName": "samas",
+      "DisplayName": "সমাস"
+   
+    },
+    {
+      "SubjectName": "sandhi",
+      "DisplayName": "সন্ধি"
+   
+    },
+    
+    {
+      "SubjectName": "padParibartan",
+      "DisplayName": "পদ পরিবর্তন"
+   
+    },
+    
+    {
+      "SubjectName": "protyoy",
+      "DisplayName": "প্রত্যয়"
+   
+    }
+    ,
+    
+    {
+      "SubjectName": "kriyarkal",
+      "DisplayName": "ক্রিয়ার কাল"
+   
+    },
+    
+      {
+      "SubjectName": "utpotti",
+      "DisplayName": "উতপত্তি" 
+   
+    }
+    
+    
+     ]
+}

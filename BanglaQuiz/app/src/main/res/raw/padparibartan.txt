@@ -1,0 +1,573 @@
+{
+  "Questions": [
+    {
+      "Question": "তুমি যেতে পারবে না। (ভাব বাচ্যে পরিবর্তন করো।)" ,
+      "CorrectAnswer":  1,
+      "Answers": [
+        {
+          "Answer": "তুমি যাবে না।"
+        },
+        {
+          "Answer": "তোমার যাওয়া হবে না।"
+        },
+        {
+          "Answer": "তুমি যেও না।"
+        },
+        {
+          "Answer": "তুমি আসতে পারবে না।"
+        }
+      ]
+    },
+    {
+      "Question": "আমার বই পড়া হয়েছে।  (কর্তৃবাচ্য  বাচ্যে পরিবর্তন করো।)",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "আমি বই পড়েছি।"
+        },
+        {
+          "Answer": "আমার দ্বারা বইটি পঠিত হয়েছে।"
+        },
+        {
+          "Answer": "আমার বই পড়া হয়ে গেছে।"
+        },
+        {
+          "Answer": "বইটি আমার দ্বারা পড়া হয়েছে।"
+        }
+      ]
+    },
+    
+        {
+      "Question": "জনতা চোরটিকে প্রহার করছে। - এটি কি বাচ্য?",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "কর্মবাচ্য"
+        },
+        {
+          "Answer": "ভাববাচ্য"
+        },
+        {
+          "Answer": "কর্মকর্তৃবাচ্য"
+        },
+        {
+          "Answer": "কর্তৃবাচ্য"
+        }
+      ]
+    },
+    
+        {
+      "Question": "নীচের কোনটি বাচ্যের কোন  প্রকার নয়?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "কর্তৃবাচ্য"
+        },
+        {
+          "Answer": "কর্মবাচ্য"
+        },
+        {
+          "Answer": "ক্রিয়াবাচ্য"
+        },
+        {
+          "Answer": "ভাববাচ্য"
+        }
+      ]
+    },
+    
+           {
+      "Question": "তোমার কবে ফেরা হচ্ছে? (কর্তৃবাচ্য  বাচ্যে পরিবর্তন করো।)",
+      "CorrectAnswer":2,
+      "Answers": [
+        {
+          "Answer": "তুমি কি ফিরবে?"
+        },
+        {
+          "Answer": "তোমার ফেরার কথা কবে?"
+        },
+        {
+          "Answer": "তুমি  কবে ফিরছো?
+"
+        },
+        {
+          "Answer": "তুমি কবে আসবে?"
+        }
+      ]
+    },
+    
+      {
+      "Question": "তাকে চেনাও শক্ত ধরাও শক্ত। (জটিল বাক্যে পরিবর্তিত করো।",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "তাকে চেনা সহজ হলেও ধরা শক্ত"
+        },
+        {
+          "Answer": "তাকে চেনাও যেমন শক্ত তেমনি ধরাও শক্ত"
+        },
+        {
+          "Answer": "তাকে চেনা বা ধরা শক্ত।"
+        },
+        {
+          "Answer": "তাকে চেনা এবং ধরা শক্ত।"
+        }
+      ]
+    },
+    
+          {
+      "Question": "অবসাদ - শব্দটি পদান্তরিত করো।",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "অবচ্ছন্ন"
+        },
+        {
+          "Answer": "অবসন্ন"
+        },
+        {
+          "Answer": "অবস্থিত"
+        },
+        {
+          "Answer": "অবশান্ত"
+        }
+      ]
+    },
+    
+     {
+      "Question": "শিক্ষক ছাত্রকে তিরস্কার করলো। - এটিকে কর্মবাচ্যে পরিবর্তন করো।",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "শিক্ষক দ্বারা ছাত্র তিরস্কার হল।"
+        },
+        {
+          "Answer": "ছাত্রের দ্বারা শিক্ষক  তিরস্কৃত হল।"
+        },
+        {
+          "Answer": "শিক্ষকের কাছে ছাত্রের তিরস্কার হল।"
+        },
+        {
+          "Answer": "শিক্ষক দ্বারা ছাত্র তিরস্কৃত হল।"
+        }
+      ]
+    },
+    
+         {
+      "Question": "পুলিশ চোর ধরেছে। কর্মবাচ্যে পরিবর্তন করো।",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "পুলিশের চোর ধরা হয়েছে।"
+        },
+        {
+          "Answer": "পুলিশ কর্তৃক চোর ধৃত হয়েছে।"
+        },
+        {
+          "Answer": "চোরের হাতে পুলিশ ধরা পড়েছে।"
+        },
+        {
+          "Answer": "পুলিশের হাতে চোর ধরা পড়েছে।"
+        }
+      ]
+    },
+    
+             {
+      "Question": "সমস্যা সমাধানের জন্য সকলকে ডাকা হোক। কর্তৃবাচ্যে পরিবর্তন করো।",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "সমস্যা সমাধানের জন্য সকলকে ডাকুন।"
+        },
+        {
+          "Answer": "সমস্যা সমাধানে সবাইকে ডেকে পাঠানো হোক।"
+        },
+        {
+          "Answer": "সকলকে ডেকে সমাস্যা সমাধান করা হোক।"
+        },
+        {
+          "Answer": "সমস্যা সমাধানের জন্য সবাই যেন উপস্থিত থাকে।"
+        }
+      ]
+    },
+    
+                 {
+      "Question": "Human body obtains its energy from ",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Sand"
+        },
+        {
+          "Answer": "Carbohydrates"
+        },
+        {
+          "Answer": "Hydrogen"
+        },
+        {
+          "Answer": "Air"
+        }
+      ]
+    },
+    
+     {
+      "Question": "---- is the process by which liquid water changes into a water vapor?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Circulation"
+        },
+        {
+          "Answer": "Condensation"
+        },
+        {
+          "Answer": "Evaporation"
+        },
+        {
+          "Answer": "Stimulation"
+        }
+      ]
+    },
+    
+    {
+      "Question": "---- breathes through gills.",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Dog"
+        },
+        {
+          "Answer": "Cat"
+        },
+        {
+          "Answer": "Fish"
+        },
+        {
+          "Answer": "Duck"
+        }
+      ]
+    },
+    
+    {
+      "Question": "The process of food cycle from one living thing to another is called ",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Food Path"
+        },
+        {
+          "Answer": "Food Store"
+        },
+        {
+          "Answer": "Food Cycle"
+        },
+        {
+          "Answer": "Food Chain"
+        }
+      ]
+    },
+    
+        {
+      "Question": "---- denotes the resource that comes from remains of plants and animals.",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Energy Fuel"
+        },
+        {
+          "Answer": "Chemical Fuel"
+        },
+        {
+          "Answer": "Fossil Fuel"
+        },
+        {
+          "Answer": "Bio Fuel"
+        }
+      ]
+    },
+    
+            {
+      "Question": "which of the following doesnt have its own shape or volume?",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Solid"
+        },
+        {
+          "Answer": "Sand"
+        },
+        {
+          "Answer": "Gas"
+        },
+        {
+          "Answer": "Ice"
+        }
+      ]
+    },
+    
+    {
+      "Question": "Choose the herbivore.",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Fish"
+        },
+        {
+          "Answer": "Deer"
+        },
+        {
+          "Answer": "Tiger"
+        },
+        {
+          "Answer": "Lion"
+        }
+      ]
+    },
+    
+        {
+      "Question": "Lunar eclipse occurs when --- blocks light from --- from reaching ---.",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Moon,Earth,Sun"
+        },
+        {
+          "Answer": "Sun,Moon,Earth"
+        },
+        {
+          "Answer": "Earth,Sun,Moon"
+        },
+        {
+          "Answer": "Moon,Earth,Sun"
+        }
+      ]
+    },
+    
+     {
+      "Question": "Magnets are attracted to ----.",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Steel"
+        },
+        {
+          "Answer": "Coal"
+        },
+        {
+          "Answer": "Iron"
+        },
+        {
+          "Answer": "Ice"
+        }
+      ]
+    },
+    
+       {
+      "Question": "Which item among the following is not a natural resource?",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Bread"
+        },
+        {
+          "Answer": "Oil"
+        },
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Fish"
+        }
+      ]
+    },
+    
+           {
+      "Question": "Vehicles cause --- pollution.",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Air"
+        },
+        {
+          "Answer": "Soil"
+        },
+        {
+          "Answer": "Fire"
+        }
+      ]
+    },
+    
+               {
+      "Question": "Choose the renewable resource.",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Gold"
+        },
+        {
+          "Answer": "Coal"
+        },
+        {
+          "Answer": "Diesel"
+        },
+        {
+          "Answer": "Solar Power"
+        }
+      ]
+    },
+    
+                   {
+      "Question": "---- is a reptile.",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Cat"
+        },
+        {
+          "Answer": "Dog"
+        },
+        {
+          "Answer": "Tiger"
+        },
+        {
+          "Answer": "Crocodile"
+        }
+      ]
+    },
+    
+                       {
+      "Question": "Solar System consists of ",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Sun,Moon"
+        },
+        {
+          "Answer": "Planets"
+        },
+        {
+          "Answer": "Sun,Planets"
+        },
+        {
+          "Answer": "Sun,Planets,Moons"
+        }
+      ]
+    },
+    
+                           {
+      "Question": "---- is a solid.",
+      "CorrectAnswer": 3,
+      "Answers": [
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Oil"
+        },
+        {
+          "Answer": "Oxygen"
+        },
+        {
+          "Answer": "Rock"
+        }
+      ]
+    },
+    
+    {
+              "Question": "Thermometers are used to measure ",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Temperature"
+        },
+        {
+          "Answer": "Weight"
+        },
+        {
+          "Answer": "Volume"
+        },
+        {
+          "Answer": "Power"
+        }
+      ]
+    },
+    
+    {
+              "Question": "Low lying land sorrounded by mountains is called ",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Plain"
+        },
+        {
+          "Answer": "Hill"
+        },
+        {
+          "Answer": "Stream"
+        },
+        {
+          "Answer": "Valley"
+        }
+      ]
+    },
+    
+     {
+              "Question": "What flows out of Volcanoes ",
+      "CorrectAnswer": 2,
+      "Answers": [
+        {
+          "Answer": "Lava"
+        },
+        {
+          "Answer": "Water"
+        },
+        {
+          "Answer": "Oil"
+        },
+        {
+          "Answer": "Air"
+        }
+      ]
+    },
+    
+    {
+              "Question": "Choose the odd one out.",
+      "CorrectAnswer": 1,
+      "Answers": [
+        {
+          "Answer": "Dry"
+        },
+        {
+          "Answer": "Spring"
+        },
+        {
+          "Answer": "Summer"
+        },
+        {
+          "Answer": "Winter"
+        }
+      ]
+    },
+    
+        {
+              "Question": "Weight is measured in ",
+      "CorrectAnswer": 0,
+      "Answers": [
+        {
+          "Answer": "Yards"
+        },
+        {
+          "Answer": "Miles"
+        },
+        {
+          "Answer": "Gallons"
+        },
+        {
+          "Answer": "Pounds"
+        }
+      ]
+    }
+     ]
+}

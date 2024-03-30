@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bengaliGrammarMain"
+    style="@style/Theme.AppCompat"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent" >
+    
+    
+        <EditText
+            android:id="@+id/bengaliGrammarQuiz"
+            style="@style/DefaultNonEditableText"            
+            android:text="Bangla Grammmar Quiz"
+            android:textColor="#442233">
+           
+        </EditText>
+         <Button
+            android:id="@+id/goForQuizButton"
+            style="@style/RoundButtonTheme"
+            android:layout_width="wrap_content"
+            android:text="Go" />
+
+</LinearLayout>

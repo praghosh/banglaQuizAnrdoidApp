@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/quizLayout"
+    style="@style/Theme.BengaliQuizApp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/quizquestion"
+        style="@style/DefaultNonEditableText"
+        android:textColor="#554411"
+        android:gravity="left" 
+        android:textSize="13sp"
+  
+        >
+    </EditText>
+
+    <RadioGroup
+        android:id="@+id/answers"
+        android:paddingLeft="5dp"
+        android:textColor="#557421"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"   
+        android:layout_height="wrap_content"
+        >
+
+        <RadioButton
+            android:id="@+id/a0"            
+            style="@style/RadioButtonTheme"         
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/a1"
+			style="@style/RadioButtonTheme" 
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/a2"
+            style="@style/RadioButtonTheme"  
+            android:text="RadioButton" />
+
+        <RadioButton
+            android:id="@+id/a3"
+           android:layout_weight="1"
+            style="@style/RadioButtonTheme"           
+            android:text="RadioButton" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        style="@style/VerticalThemeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/Prev"
+            style="@style/NormalButtonTheme"
+            android:layout_weight="1"
+            android:text="&lt;&lt;" />
+
+        <Button
+            android:id="@+id/finish"
+            android:layout_weight="1"
+            style="@style/NormalButtonTheme"
+            android:text="Finish" />
+
+        <Button
+            android:id="@+id/Next"
+            android:layout_weight="1"
+            style="@style/NormalButtonTheme"            
+            android:text=">>>" />
+    </LinearLayout>
+
+</TableLayout>
